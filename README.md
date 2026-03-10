@@ -155,4 +155,4 @@ RabbitMQ Management UI: http://localhost:15672 (admin/admin123)
 
 ## 👨‍💻 Author
 
-**Cem Karaca** — [GitHub](https://github.com/quanlexvevo) · [LinkedIn](https://linkedin.com/in/cem-karaca)
+**Cem Karaca** — [GitHub](https://github.com/quanlexvevo) · [LinkedIn](https://linkedin.com/in/cem-karaca-15735129a)
